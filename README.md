@@ -4,4 +4,4 @@
 
 *Speedtest* вам допоможе!
 # Що робить Speedtest?
-Speedtest кожну хвилину перевіряє завантаження (за допомоги [speedtest.net](https://speedtest.net)), та зберігає все у файл `internet_diagnosis.txt`
+Speedtest кожну хвилину перевіряє завантаження (за допомоги [speedtest.net](https://speedtest.net)), та зберігає все у файл `internet_diagnosis.htm`
